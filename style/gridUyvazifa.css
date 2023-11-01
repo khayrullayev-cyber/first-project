@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+}
+
+.conteiner {
+    width: 100%;
+    height: 100%;  
+}
+/* navbar */
+.navbar {
+    width: 100%;
+    height: 65px;
+    background-color: #52A7F8;
+}
+
+
+
+/* header */
+.conteiner header {
+    width: 100%;
+    height: 400px;
+    border: 1px solid transparent;
+}
+
+.conteiner header .headerBox_1 {
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.conteiner header .headerBox_2 {
+    width: 400px;
+    height: 60px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+}
+
+/* green place */
+.conteiner .green {
+    width: 100%;
+    height: 450px;
+    background-color: #6FC040;
+}
+
+.conteiner section {
+    width: 100%;
+    height: 450px;
+    background-color: #fff;
+}
+
+.conteiner section .sectionBox_01 {
+    width: 600px;
+    height: 60px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.conteiner .boxBox {
+    width: 70%;
+    height: 320px;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteiner .boxBox .sectionBox_item {
+    width: 47%;
+    height: 100%;
+    background-color: #DDDEE0;
+}
+
+.conteiner .section_Two {
+    width: 100%;
+    height: 500px;
+    background-color: #B46AE3;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteiner .section_Two .item {
+    width: 200px;
+    height: 400px;
+    border: 1px solid transparent;
+    background-color: #fff;
+}
+
+.conteiner .section_Two .item .TwoBox {
+    width: 150px;
+    height: 25px;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #DDDEE0;
+}
+.conteiner .section_Two .item .TwoBox2 {
+    width: 150px;
+    height: 200px;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    background-color: #DDDEE0;
+}
+
+.conteiner .section_3 {
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+
+.conteiner .section_3 .box2 {
+    width: 800px;
+    height: 75px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.conteiner .section_3 .box3 {
+    width: 1200px;
+    height: 500px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+}
+
+.conteiner .section2 {
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 15px;
+}
+.conteiner .section2 .left  {
+    width: 50%;
+    height: 550px;
+    background-color: #F39019;
+}
+.conteiner .section2 .right  {
+    width: 50%;
+    height: 550px;
+    background-color: #DD6A0F;
+}
+
+.conteiner .section2 .left .section2BOX {
+    width: 300px;
+    height: 60px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.conteiner .section2 .left .section3BOX {
+    width: 500px;
+    height: 320px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.conteiner .section2 .right .section2BOX {
+    width: 300px;
+    height: 60px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.conteiner .section2 .right .section3BOX {
+    width: 500px;
+    height: 320px;
+    border: 1px solid transparent;
+    background-color: #DDDEE0;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.conteiner .end {
+    width: 100%;
+    height: 65px;
+    background-color: #0365C0;
+}
+
+
